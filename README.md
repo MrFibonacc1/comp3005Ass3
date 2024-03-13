@@ -38,4 +38,5 @@ python3 main.py
 
 VIDEO LINK:
 
+https://youtu.be/8FY_GOQ6lD4
 
